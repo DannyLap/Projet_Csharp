@@ -1,0 +1,5 @@
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net6.0\ProjetApi.csproj.AssemblyReference.cache
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net6.0\ProjetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net6.0\ProjetApi.AssemblyInfoInputs.cache
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net6.0\ProjetApi.AssemblyInfo.cs
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net6.0\ProjetApi.csproj.CoreCompileInputs.cache
