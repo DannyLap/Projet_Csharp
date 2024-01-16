@@ -1,0 +1,8 @@
+C:\Users\jkreu\Bureau\projetApi.csproj\Source\Inventory.API\obj\Debug\net5.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkreu\Bureau\projetApi.csproj\Source\Inventory.API\obj\Debug\net5.0\projet.AssemblyInfoInputs.cache
+C:\Users\jkreu\Bureau\projetApi.csproj\Source\Inventory.API\obj\Debug\net5.0\projet.AssemblyInfo.cs
+C:\Users\jkreu\Bureau\projetApi.csproj\Source\Inventory.API\obj\Debug\net5.0\projet.csproj.CoreCompileInputs.cache
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net5.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net5.0\projet.AssemblyInfoInputs.cache
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net5.0\projet.AssemblyInfo.cs
+C:\Users\jkreu\Bureau\projetApi\Source\Inventory.API\obj\Debug\net5.0\projet.csproj.CoreCompileInputs.cache
